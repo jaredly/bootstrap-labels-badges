@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-labels-badges",
+  "repo": "jabapyth/bootstrap-labels-badges",
+  "description": "Bootstrap Labels & Badges Component",
+  "version": "2.3.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "APLv2",
+  "styles": [
+    "bootstrap-labels-badges.css"
+  ]
+}
